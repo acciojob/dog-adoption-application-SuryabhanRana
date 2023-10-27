@@ -1,13 +1,2 @@
 
 /* Your CSS Code here. */
-form{
-	display:flex;
-flex-direction:column;
-	background-color:lightgrey;
-	padding:20px;
-	row-gap:10px;
-
-}
-.mulitlabel{
-	
-}
